@@ -1,5 +1,7 @@
 
 # Cyclistic Bike-Share Capstone Project
+➡️ View the live project here:
+https://mou89ultrra.github.io/Cyclistic-Bike-Share-capstone/Cyclistic_Capstone.html
 
 This project is part of the Google Data Analytics Professional Certificate.
 The goal is to analyze the usage patterns of annual members and casual riders
